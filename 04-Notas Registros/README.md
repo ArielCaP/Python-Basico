@@ -19,5 +19,6 @@ Programa que permite ingresar varias notas y calcula el promedio, la nota más a
 ## 🚀 Cómo ejecutarlo
 
 ```
-python promedio_notas.py
+registro de notas.py
+
 ```
