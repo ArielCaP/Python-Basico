@@ -12,6 +12,8 @@ Estudiante de Desarrollo de Software en la Escuela Politécnica Nacional del Ecu
 |---|---|---|---|
 | 01 | [Calculadora](./01-Calculadora) | Operaciones básicas (+, -, *, /) con manejo de errores | input, float, if/elif/else |
 | 02 | [IMC](./02-IMC) | Calcula el Índice de Masa Corporal y su categoría | fórmulas matemáticas, condicionales con rangos |
+| 03 | [Adivina el Número](./03-AdivinaNumero) | Juego donde adivinas un número al azar | random, while, break |
+| 04 | [Promedio de Notas](./04-PromedioNotas) | Calcula promedio, nota más alta y más baja | listas, for, sum, max, min |
 
 ## 🚀 Iré agregando más proyectos a medida que avance
 
